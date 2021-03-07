@@ -3,7 +3,7 @@
 <suite name="Suite">
     <test name="Amazon test">
             <classes>
-                <class name="com.endava.test.tests.EndavaTest"></class>
+                <class name="com.endava.test.tests.AmazonTest"></class>
             </classes>
     </test>
 </suite>
